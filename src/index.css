@@ -1,0 +1,17 @@
+:root {
+  --primary-red: #b91c1c;
+  --text-dark: #0f172a;
+  --text-light: #64748b;
+  --bg-gray: #f8fafc;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: var(--bg-gray);
+  color: var(--text-dark);
+}
+
+/* Custom Scrollbar for Luxury feel */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }

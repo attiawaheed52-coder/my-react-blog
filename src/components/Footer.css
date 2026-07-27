@@ -1,0 +1,30 @@
+.footer-section {
+  background-color: #0f172a; /* Premium dark background */
+  color: #94a3b8; /* Soft readable text color */
+  padding: 40px 20px;
+  text-align: center;
+  border-top: 1px solid #1e293b;
+  margin-top: auto; /* Footer ko bottom par hold rakhne ke liye */
+}
+
+.footer-logo {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #ffffff;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
+.footer-logo-dot {
+  color: #b91c1c; /* Crimson Red dot matching the theme */
+}
+
+.footer-text {
+  font-size: 13px;
+  font-weight: 300;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+  margin: 0;
+}
